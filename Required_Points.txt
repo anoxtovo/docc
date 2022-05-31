@@ -10,3 +10,12 @@ Document progress, setbacks, and new processes
 
 Question 04
 https://www.umsl.edu/~sauterv/analysis/F2015/Requirement%20Gathering%20Methods.html.htm
+
+*One-on-One Interviews:
+      One-on-one interviews are the most common technique for gathering requirements, as well as one of the primary sources of requirements. To help get the most out of an interview, they should be well thought out and prepared before sitting with the interviewee. The analyst should identify stakeholders to be interviewed. These can be users who interact with the current or new system, management, project financers or anyone else that would be involved in the system. When preparing an interview is it important to ask open-ended questions, as well as closed-ended questions. Open-ended questions generally help in obtaining valuable information, based on various individuals and the way the different way they interact with, or view, the system. 
+
+*Questionnaires/Surveys:
+Questionnaires, or surveys, allow an analyst to collect information from many people in relatively short amount of time. This is especially helpful when stakeholders are spread out geographically, or there are dozen to hundreds of respondents whose input will be needed to help establish system requirements. 
+
+*User Observation:
+The direct approaches of interviewing and questionnaires provide valuable user feedback based on the questions asked of them; however, there are times when direct observation may be better suited in requirement gathering. To get a better understanding of a user in their in current work environment, the analyst may observe the user themselves. User observation is helpful in assisting the analyst by getting a full grasp of how the user interacts with the system, firsthand.
